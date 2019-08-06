@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/masato_sato/Projects/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/masato_sato/Projects/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/masato_sato/Projects/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp.csproj",
+        "projectName": "FirstAlgorithmForCSharp",
+        "projectPath": "/Users/masato_sato/Projects/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp.csproj",
+        "packagesPath": "/Users/masato_sato/.nuget/packages/",
+        "outputPath": "/Users/masato_sato/Projects/FirstAlgorithmForCSharp/FirstAlgorithmForCSharp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/masato_sato/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
