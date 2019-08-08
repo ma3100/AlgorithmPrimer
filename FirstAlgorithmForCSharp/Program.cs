@@ -7,7 +7,7 @@ namespace FirstAlgorithmForCSharp
     {
         static void Main(string[] args)
         {
-            var test = new RecurrenceFormula();            
+            var test = new Polynomial();            
         }
     }
 }
