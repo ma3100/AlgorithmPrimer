@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{BB7A6B1D-6F3A-4931-A466-F7ABF023FDEB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FirstAlgorithmForCSharp/First/RecurrenceFormula.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstAlgorithmForCSharp/First/MonteCalro.cs">
     <Files>
-      <File FileName="FirstAlgorithmForCSharp/Program.cs" Line="13" Column="1" />
-      <File FileName="FirstAlgorithmForCSharp/First/RecurrenceFormula.cs" Line="1" Column="1" />
+      <File FileName="FirstAlgorithmForCSharp/Program.cs" Line="11" Column="1" />
+      <File FileName="FirstAlgorithmForCSharp/First/RecurrenceFormula.cs" Line="20" Column="18" />
+      <File FileName="FirstAlgorithmForCSharp/First/Polynomial.cs" />
+      <File FileName="FirstAlgorithmForCSharp/First/Pascal.cs" />
+      <File FileName="FirstAlgorithmForCSharp/First/Histogram.cs" />
+      <File FileName="FirstAlgorithmForCSharp/First/MonteCalro.cs" Line="8" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +14,7 @@
           <Node name="FirstAlgorithmForCSharp" expanded="True">
             <Node name="FirstAlgorithmForCSharp" expanded="True">
               <Node name="First" expanded="True">
-                <Node name="RecurrenceFormula.cs" selected="True" />
+                <Node name="MonteCalro.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -18,7 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FirstAlgorithmForCSharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FirstAlgorithmForCSharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

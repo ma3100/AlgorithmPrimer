@@ -17,6 +17,7 @@ namespace FirstAlgorithmForCSharp.First
             }
         }
 
+        // 漸化式を解くコード
         private long combi(int n, int r)
         {
             long p = 1;
