@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{BB7A6B1D-6F3A-4931-A466-F7ABF023FDEB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="FirstAlgorithmForCSharp/First/MonteCalro.cs">
     <Files>
-      <File FileName="FirstAlgorithmForCSharp/Program.cs" Line="11" Column="1" />
-      <File FileName="FirstAlgorithmForCSharp/First/RecurrenceFormula.cs" Line="20" Column="18" />
+      <File FileName="FirstAlgorithmForCSharp/Program.cs" Line="13" Column="2" />
+      <File FileName="FirstAlgorithmForCSharp/First/RecurrenceFormula.cs" />
       <File FileName="FirstAlgorithmForCSharp/First/Polynomial.cs" />
       <File FileName="FirstAlgorithmForCSharp/First/Pascal.cs" />
       <File FileName="FirstAlgorithmForCSharp/First/Histogram.cs" />
-      <File FileName="FirstAlgorithmForCSharp/First/MonteCalro.cs" Line="8" Column="16" />
+      <File FileName="FirstAlgorithmForCSharp/First/MonteCalro.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
