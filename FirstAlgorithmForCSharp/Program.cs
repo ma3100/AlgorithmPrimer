@@ -8,7 +8,7 @@ namespace FirstAlgorithmForCSharp
         static void Main(string[] args)
         {
             var test = new MonteCalro();
-            test.getArea();
+            test.getArea(2.0,2.0);
         }
     }
 }

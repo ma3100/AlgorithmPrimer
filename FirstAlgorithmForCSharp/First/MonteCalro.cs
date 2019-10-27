@@ -28,23 +28,23 @@ namespace FirstAlgorithmForCSharp.First
             return montePai;
         }
 
-        public double getArea()
+        public double getArea(double xLength, double yLength)
         {
             double x, y, monteArea;
             var random = new Random();
             var inCircle = 0;
             foreach (var i in Enumerable.Range(0, RANDOMNUM))
             {
-                x = random.NextDouble() * 2;
-                y = random.NextDouble();
+                x = random.NextDouble() * xLength;
+                y = random.NextDouble() * yLength;
 
-                if (x * x/4 + y * y <= 1)
+                if (x * x / Math.Pow(xLength, 2) + y * y / Math.Pow(yLength, 2) <= 1)
                 {
                     inCircle++;
                 }
             }
 
-            monteArea = 4.0 * (2.0 * inCircle / RANDOMNUM);
+            monteArea = 4.0 * ((xLength * yLength) * inCircle / RANDOMNUM);
             Console.WriteLine($"Answer:{monteArea}");
             return monteArea;
         }
