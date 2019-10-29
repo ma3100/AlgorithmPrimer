@@ -7,8 +7,8 @@ namespace FirstAlgorithmForCSharp
     {
         static void Main(string[] args)
         {
-            var test = new MonteCalro();
-            test.getArea(2.0,2.0);
+            var test = new Euclidean();
+            test.minusPattern(128,50);
         }
     }
 }
