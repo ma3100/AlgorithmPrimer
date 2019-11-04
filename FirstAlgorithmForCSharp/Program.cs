@@ -7,8 +7,8 @@ namespace FirstAlgorithmForCSharp
     {
         static void Main(string[] args)
         {
-            var test = new Euclidean();
-            test.minusPattern(128,50);
+            var test = new Eratosthenes();
+            test.eratosthenes(40);
         }
     }
 }
